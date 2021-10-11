@@ -110,6 +110,8 @@ Caso não tenha sua conta para participar do hacktoberfest, mencione:
 
 - [mariacarolinass](https://github.com/mariacarolinass)
 
+- [SrMonter](https://github.com/SrMonter)
+
 ## Alguns números
 
 1. Novos usuários do Github:
